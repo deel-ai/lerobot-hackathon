@@ -1,3 +1,9 @@
+> [!WARNING]
+> This repository is forked from the excellent HuggingFace [LeRobot](https://github.com/huggingface/lerobot) project.
+> It is a fork of the main b74e2a6 commit, to which we applied a few fixes so that all hackathon participants share the same environment.
+> 
+> 👉 Full credit for the original work goes to Hugging Face. This fork exists only to provide a stable, consistent setup for the hackathon.
+
 <p align="center">
   <img alt="LeRobot, Hugging Face Robotics Library" src="https://raw.githubusercontent.com/huggingface/lerobot/main/media/lerobot-logo-thumbnail.png" width="100%">
   <br/>
