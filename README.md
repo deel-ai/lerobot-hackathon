@@ -1,3 +1,10 @@
+> [!WARNING]
+> This repository is forked from the excellent HuggingFace [LeRobot](https://github.com/huggingface/lerobot) project.
+> It is a fork of the **release 0.4.3** (commit 0b067df), to which we applied a fix to correctly handle cameras on Windows.
+> 
+> 👉 Full credit for the original work goes to Hugging Face. This fork exists only to provide a stable, consistent setup for the hackathon.
+
+
 <p align="center">
   <img alt="LeRobot, Hugging Face Robotics Library" src="./media/readme/lerobot-logo-thumbnail.png" width="100%">
 </p>
